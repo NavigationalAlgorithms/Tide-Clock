@@ -19,5 +19,8 @@ Tide Clock for your desktop
 -> You can change the calibration help information by editing the HTML code within the file: Tide Clock Saint Jean de Luz.html
 
 
+<img width="1920" height="1080" alt="Tide Clock 4" src="https://github.com/user-attachments/assets/e642890d-ff55-482f-a83e-47a9a99a5c02" />
+
+
 Copyright (c)2026 Navigational Algorithms
 https://sites.google.com/site/navigationalalgorithms/

@@ -7,6 +7,13 @@ Tide Clock for your desktop
 4. Click on the clock face to view only the tide clock.
 
 
+	⚠️ CALIBRATION - IMPORTANT (Accuracy)
+	👉 Set it to a real local high tide time
+	  - Set the Tide Clock to HIGH at time listed in Official local Tide Table for "today".	(Every day)
+	  - Set the clock to HIGH WATER only on the day of Full or New Moon. (Twice a month)
+	Otherwise, the clock will not match real tides.	
+
+
 -> The background image on the watch face can be changed by editing: tideclock_background.png.png
 
 -> You can change the calibration help information by editing the HTML code within the file: Tide Clock Saint Jean de Luz.html

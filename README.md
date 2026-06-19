@@ -21,6 +21,8 @@ Tide Clock for your desktop
 
 <img width="1920" height="1080" alt="Tide Clock 4" src="https://github.com/user-attachments/assets/e642890d-ff55-482f-a83e-47a9a99a5c02" />
 
+<img width="464" height="355" alt="Tide Clock 2" src="https://github.com/user-attachments/assets/7e56328f-1962-40e2-b328-c47c2031fa6e" />
+
 
 Copyright (c)2026 Navigational Algorithms
 https://sites.google.com/site/navigationalalgorithms/
